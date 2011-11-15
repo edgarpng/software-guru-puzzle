@@ -1,0 +1,15 @@
+When this script is executed with an integer number between 0 and 1000 as a parameter, it prints all letters neccesary to write numbers up to that number in spanish.
+
+Example:
+
+ruby ooyala_puzzle.rb 3
+
+output:
+["c", "d", "e", "n", "o", "r", "s", "t", "u"]
+
+since
+0 = 'cero'
+1 = 'uno'
+2 = 'dos'
+3 = 'tres'
+in spanish
